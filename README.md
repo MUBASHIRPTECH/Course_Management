@@ -48,5 +48,10 @@ Contributions are welcome! If you find issues or have suggestions for improvemen
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
 
 ---
+<img width="1470" alt="Screenshot 2024-02-04 at 2 17 23 PM" src="https://github.com/MUBASHIRPTECH/Course_Management/assets/146514174/cbb78938-573f-4a97-bef3-4b039aa982c1">
+<img width="1470" alt="Screenshot 2024-02-04 at 2 17 09 PM" src="https://github.com/MUBASHIRPTECH/Course_Management/assets/146514174/3cb391c6-3fce-4051-8fcb-23da7d61f61d">
+<img width="1470" alt="Screenshot 2024-02-04 at 2 17 31 PM" src="https://github.com/MUBASHIRPTECH/Course_Management/assets/146514174/af51af67-957e-46ec-96c7-c54bde976642">
+<img width="1171" alt="Screenshot 2024-02-04 at 2 43 18 PM" src="https://github.com/MUBASHIRPTECH/Course_Management/assets/146514174/cb90c66b-b424-4ef6-99a8-871441f95370">
+<img width="1285" alt="Screenshot 2024-02-04 at 2 42 25 PM" src="https://github.com/MUBASHIRPTECH/Course_Management/assets/146514174/21aabf15-4ea6-469c-b458-5cf4681aede6">
 
-Feel free to customize this README further with additional details or instructions to suit your project's specific needs.
+
